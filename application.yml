@@ -14,3 +14,4 @@ spring: # <---NEW SECTION
   cloud:
     services:
       registrationMethod: direct
+
